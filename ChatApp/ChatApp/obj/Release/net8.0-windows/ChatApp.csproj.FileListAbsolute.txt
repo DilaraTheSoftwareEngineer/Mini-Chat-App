@@ -1,0 +1,16 @@
+C:\Users\Bener\source\repos\ChatApp\ChatApp\bin\Release\net8.0-windows\ChatApp.exe
+C:\Users\Bener\source\repos\ChatApp\ChatApp\bin\Release\net8.0-windows\ChatApp.deps.json
+C:\Users\Bener\source\repos\ChatApp\ChatApp\bin\Release\net8.0-windows\ChatApp.runtimeconfig.json
+C:\Users\Bener\source\repos\ChatApp\ChatApp\bin\Release\net8.0-windows\ChatApp.dll
+C:\Users\Bener\source\repos\ChatApp\ChatApp\bin\Release\net8.0-windows\ChatApp.pdb
+C:\Users\Bener\source\repos\ChatApp\ChatApp\obj\Release\net8.0-windows\ChatApp.Form1.resources
+C:\Users\Bener\source\repos\ChatApp\ChatApp\obj\Release\net8.0-windows\ChatApp.csproj.GenerateResource.cache
+C:\Users\Bener\source\repos\ChatApp\ChatApp\obj\Release\net8.0-windows\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bener\source\repos\ChatApp\ChatApp\obj\Release\net8.0-windows\ChatApp.AssemblyInfoInputs.cache
+C:\Users\Bener\source\repos\ChatApp\ChatApp\obj\Release\net8.0-windows\ChatApp.AssemblyInfo.cs
+C:\Users\Bener\source\repos\ChatApp\ChatApp\obj\Release\net8.0-windows\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\Bener\source\repos\ChatApp\ChatApp\obj\Release\net8.0-windows\ChatApp.dll
+C:\Users\Bener\source\repos\ChatApp\ChatApp\obj\Release\net8.0-windows\refint\ChatApp.dll
+C:\Users\Bener\source\repos\ChatApp\ChatApp\obj\Release\net8.0-windows\ChatApp.pdb
+C:\Users\Bener\source\repos\ChatApp\ChatApp\obj\Release\net8.0-windows\ChatApp.genruntimeconfig.cache
+C:\Users\Bener\source\repos\ChatApp\ChatApp\obj\Release\net8.0-windows\ref\ChatApp.dll
